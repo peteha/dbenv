@@ -1,2 +1,3 @@
-# dbenv
-Database Environment for Lab
+# labenv
+
+Setup for Lab Environment - Docker
